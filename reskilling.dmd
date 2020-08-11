@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="reskilling" id="4D828BD9-BEE2-B9D1-E736-CE120A6FA99E" version="3.5">
+<createdBy>Ideapad 520</createdBy>
+<createdTime>2020-08-10 23:16:36 UTC</createdTime>
+<ownerDesignName>reskilling</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>4D828BD9-BEE2-B9D1-E736-CE120A6FA99E</designId>
+</OSDM_Design>
